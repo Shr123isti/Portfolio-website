@@ -1,0 +1,135 @@
+.Navbar{
+    height:30px;
+    width:98.1vw;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    background-color: black;
+    display:flex;
+    justify-content: end;
+    align-content: center;
+    position: fixed;
+    
+    
+
+}
+.home{
+    height:100vh;
+    width:100vw;
+    display:flex;
+    align-items: center;
+   
+    justify-content: space-between;
+    background-color: black;
+
+}
+.photo{
+    margin: 50px;
+}
+.photo:hover{
+    zoom:110%;
+}
+    
+.conthome{
+
+    display:flex;
+    flex-direction: column;
+    align-items: end;
+    padding: 45px;
+    font-size: xx-large;
+
+}
+.about{
+    font-size:large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 35px;
+
+}
+.about:hover{
+    zoom:110%;
+    
+    
+    
+}
+.skills{
+    font-size:large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 35px;
+
+}
+.skills:hover{
+    zoom:110%;
+    
+    
+    
+}
+.project{
+    font-size:large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 35px;
+
+}
+.project:hover{
+    zoom:110%;
+    
+    
+    
+}
+.intern{
+    font-size:large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 35px;
+
+}
+.intern:hover{
+    zoom:110%;
+    
+    
+    
+}
+.heading{
+    font-size:large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 35px;
+
+}
+.heading:hover{
+    zoom:110%;
+    
+    
+    
+}
+.contact{
+    display: flex;
+    justify-content: space-between;
+    font-size:large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding:50px;
+    
+
+}
+.contact:hover{
+    zoom:110%;
+    
+    
+    
+}
+
+.button{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.card1:hover{
+    zoom:105.75%;
+}
+.card2:hover{
+    zoom:105.75%;
+}
+.card3:hover{
+    zoom:105.75%;
+}
+.card4:hover{
+    zoom:105.75%;
+}
+
