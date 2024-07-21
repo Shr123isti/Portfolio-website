@@ -1,2 +1,2 @@
 # Portfolio-website
-create portfolio using CSS and HTML.
+Created portfolio using CSS and HTML.
